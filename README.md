@@ -20,7 +20,7 @@ Install homebridge:
 ```sh
 sudo npm install -g homebridge
 ```
-```
+
 Install homebridge-ufp:
 ```sh
 sudo npm install -g homebridge-ufp
